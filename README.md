@@ -26,3 +26,4 @@ Update dependencies
 Update dependencies
 Rewrite function Y
 Improve performance
+Fix typo in README
