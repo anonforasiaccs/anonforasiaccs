@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 Improve error handling
 Remove unused imports
+Update dependencies
