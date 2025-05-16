@@ -28,3 +28,4 @@ Rewrite function Y
 Improve performance
 Fix typo in README
 Polish UI layout
+Refactor core logic
